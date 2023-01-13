@@ -8,7 +8,7 @@ Please review our open issues tagged [good first issue](https://github.com/kamra
 
 ## Getting Started
 
-To ensure the best experience getting the project going on your local machine, you'll need:
+To ensure the best experience getting the project going on your local machine, you will need:
 
 - Node.js 10+
 - yarn 1.20+
